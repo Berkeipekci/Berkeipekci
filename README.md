@@ -155,7 +155,7 @@ Analysed raw EKG signal data from Holter devices using structured feature extrac
 
 <div align="center">
 
-<img src="pulse-footer.svg" alt="Pulse Animation Footer" width="80%" height="40">
+<img src="pulse-footer.svg" alt="Pulse Animation Footer" width="80%" height="80">
 
 <br/>
 
