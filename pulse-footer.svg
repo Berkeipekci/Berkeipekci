@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 200" width="80%" height="80" style="background-color: #0d1117; border-radius: 8px;">
+  <line x1="0" y1="113" x2="800" y2="113" stroke="#1a2a2a" stroke-width="1" stroke-dasharray="4,8"/>
+  
+  <polyline points="800,113.8 650,113.8 478.2,113.8 460.3,132.3 446.0,70.7 396.8,127.4 391.6,120.2 383.9,166.4 377.0,27.6 363.2,118.3 361.8,112.3 355.1,126.1 348.2,108.5 344.1,124.4 334.5,92.9 324.1,113 150,113 0,113"
+    fill="none"
+    stroke="#00FFD1"
+    stroke-width="3.5"
+    stroke-linecap="round"
+    stroke-linejoin="miter"
+    stroke-dasharray="1200"
+    stroke-dashoffset="1200">
+    
+    <animate 
+      attributeName="stroke-dashoffset" 
+      values="1200; 2400; 3600; 1200" 
+      keyTimes="0; 0.5; 0.99; 1" 
+      dur="2s" 
+      repeatCount="indefinite" />
+      
+    <animate 
+      attributeName="opacity" 
+      values="0; 1; 1; 0; 0" 
+      keyTimes="0; 0.25; 0.5; 0.99; 1" 
+      dur="2s" 
+      repeatCount="indefinite" />
+  </polyline>
+</svg>
