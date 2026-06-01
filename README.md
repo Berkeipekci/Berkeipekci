@@ -117,7 +117,7 @@ Analysed raw EKG signal data from Holter devices using structured feature extrac
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Berkeipekci&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FFD1&icon_color=00FFD1&text_color=c9d1d9" alt="GitHub Stats"/>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Berkeipekci&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FFD1&icon_color=00FFD1&text_color=c9d1d9&v=2)](https://github.com/Berkeipekci)
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Berkeipekci&theme=tokyonight&hide_border=true&background=0d1117&ring=00FFD1&fire=FF6B9D&currStreakLabel=00FFD1&sideLabels=00FFD1" alt="GitHub Streak"/>
 
 <br/><br/>
@@ -129,7 +129,6 @@ Analysed raw EKG signal data from Holter devices using structured feature extrac
 </picture>
 
 </div>
----
 
 ## 🤝 Connect With Me
 
