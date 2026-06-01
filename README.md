@@ -1,18 +1,15 @@
 <div align="center">
 
-<!-- ANIMATED TYPING HEADER -->
 <a href="https://github.com/Berkeipekci">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=800&color=00FFD1&center=true&vCenter=true&multiline=false&repeat=true&width=800&height=60&lines=Health+Tech+%26+Systems+Analyst+%F0%9F%92%BB;T%C3%9CB%C4%B0TAK+Researcher+%F0%9F%94%AC;MIS+Student+%F0%9F%8E%93;Digital+Health+Transformation+%E2%9A%95%EF%B8%8F" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- ECG / HEARTBEAT ANIMATED BANNER (Ayrı dosyadan çekiliyor) -->
-<img src="ecg-banner.svg" alt="ECG Animation Banner" width="100%" height="80">
+<img src="ecg-banner.svg" alt="ECG Animation Banner" width="100%" height="120">
 
 <br/>
 
-<!-- PROFILE BADGES ROW -->
 ![Profile Views](https://komarev.com/ghpvc/?username=Berkeipekci&color=00FFD1&style=for-the-badge&label=PROFILE+VIEWS)
 &nbsp;
 [![GitHub followers](https://img.shields.io/github/followers/Berkeipekci?color=00FFD1&logo=github&style=for-the-badge&label=FOLLOWERS)](https://github.com/Berkeipekci)
@@ -42,7 +39,7 @@ My core expertise lies in **CRM architecture, enterprise systems, and business p
 <td width="50%" valign="top">
 
 ### <img src="Dikey.png" width="70" align="right" alt="TÜBİTAK Logo"> 🏥 HealthyCRM
-> *TÜBİTAK 2209-A Research-Oriented Project*
+> *TÜBİTAK 2209-B Industry-Oriented Project*
 
 A structured process module designed to standardise and digitise workflows for medical device companies. Created to address the multi-stage, regulation-heavy processes (EKAP/SABSİS procurement, demo planning, installations) that generic CRM tools fail to support. 
 
@@ -114,7 +111,6 @@ Analysed raw EKG signal data from Holter devices using structured feature extrac
 - ✍️ **Health Tech Writer:** Publishing actively on Medium regarding *Health 5.0* and *AI in Healthcare*.
 - 🗣️ **Conference Speaker:** Delivered a public talk on *'AI-Supported Health Technologies'* for the Diyarbakır Software Community.
 - 🤝 **Community Leadership:** Management Team Member at Diyarbakır Software Community & Former Board Chair at Bartın Innovation Club.
-- 🎗️ **Social Impact:** Volunteer for LÖSEV (Leukemia Foundation), supporting fundraising campaigns.
 
 ---
 
@@ -159,7 +155,6 @@ Analysed raw EKG signal data from Holter devices using structured feature extrac
 
 <div align="center">
 
-<!-- PULSE ANIMATED FOOTER (Ayrı dosyadan çekiliyor) -->
 <img src="pulse-footer.svg" alt="Pulse Animation Footer" width="80%" height="40">
 
 <br/>
