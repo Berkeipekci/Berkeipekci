@@ -41,7 +41,7 @@ My core expertise lies in **CRM architecture, enterprise systems, and business p
 <tr>
 <td width="50%" valign="top">
 
-### <img src="https://upload.wikimedia.org/wikipedia/commons/d/d7/T%C3%9CB%C4%B0TAK_logo.svg" width="90" align="right" alt="TÜBİTAK Logo"> 🏥 HealthyCRM
+### <img src="Dikey.png" width="70" align="right" alt="TÜBİTAK Logo"> 🏥 HealthyCRM
 > *TÜBİTAK 2209-A Research-Oriented Project*
 
 A structured process module designed to standardise and digitise workflows for medical device companies. Created to address the multi-stage, regulation-heavy processes (EKAP/SABSİS procurement, demo planning, installations) that generic CRM tools fail to support. 
