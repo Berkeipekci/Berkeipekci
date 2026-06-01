@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 200" width="100%" height="150" style="background-color: #0d1117;">
+  <!-- Arka Plan Grid Çizgileri (Opsiyonel derinlik katmak için) -->
+  <line x1="0" y1="113" x2="500" y2="113" stroke="#1a2a2a" stroke-width="1" stroke-dasharray="4,8"/>
+  <line x1="0" y1="70" x2="500" y2="70" stroke="#1a2a2a" stroke-width="0.5" stroke-dasharray="2,10"/>
+  <line x1="0" y1="150" x2="500" y2="150" stroke="#1a2a2a" stroke-width="0.5" stroke-dasharray="2,10"/>
+
+  <!-- Bulduğun EKG Animasyonunun Native Formatı -->
+  <polyline points="486.6,113.8 328.2,113.8 310.3,132.3 296,70.7 246.8,127.4 241.6,120.2 233.9,166.4 227,27.6 213.2,118.3 211.8,112.3 205.1,126.1 198.2,108.5 194.1,124.4 184.5,92.9 174.1,113 4.3,113"
+    fill="none"
+    stroke="#00FFD1"
+    stroke-width="3.5"
+    stroke-linecap="round"
+    stroke-linejoin="miter"
+    stroke-dasharray="1000"
+    stroke-dashoffset="1000">
+    
+    <!-- CSS'teki Keyframes'in Karşılığı (Native SVG Animasyonu) -->
+    <animate 
+      attributeName="stroke-dashoffset" 
+      values="1000; 2000; 3000; 1000" 
+      keyTimes="0; 0.5; 0.99; 1" 
+      dur="1.5s" 
+      repeatCount="indefinite" />
+      
+    <animate 
+      attributeName="opacity" 
+      values="0; 1; 1; 0; 0" 
+      keyTimes="0; 0.25; 0.5; 0.99; 1" 
+      dur="1.5s" 
+      repeatCount="indefinite" />
+  </polyline>
+</svg>
