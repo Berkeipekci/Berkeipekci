@@ -27,9 +27,9 @@
 
 ## 🧬 Professional Summary
 
-Final-year Management Information Systems student specialising in digital health transformation and medical process optimisation[cite: 2]. Drawing from direct field experience as a medical device sales, installation, and application specialist, I bridge the gap between clinical operations and digital infrastructure. 
+Final-year Management Information Systems student specialising in digital health transformation and medical process optimisation. Drawing from direct field experience as a medical device sales, installation, and application specialist, I bridge the gap between clinical operations and digital infrastructure. 
 
-My core expertise lies in **CRM architecture, enterprise systems, and business process analysis**[cite: 2]. I translate complex operational challenges into structured digital solutions, using technical stacks (Python, SQL, Android) primarily as implementation tools for systemic problem-solving rather than pure software development[cite: 2].
+My core expertise lies in **CRM architecture, enterprise systems, and business process analysis**. I translate complex operational challenges into structured digital solutions, using technical stacks (Python, SQL, Android) primarily as implementation tools for systemic problem-solving rather than pure software development.
 
 ---
 
@@ -44,12 +44,12 @@ My core expertise lies in **CRM architecture, enterprise systems, and business p
 ### 🏥 HealthyCRM
 > *TÜBİTAK 2209-A Research-Oriented Project*
 
-A structured process module designed to standardise and digitise workflows for medical device companies[cite: 2]. Created to address the multi-stage, regulation-heavy processes (EKAP/SABSİS procurement, demo planning, installations) that generic CRM tools fail to support[cite: 2]. 
+A structured process module designed to standardise and digitise workflows for medical device companies. Created to address the multi-stage, regulation-heavy processes (EKAP/SABSİS procurement, demo planning, installations) that generic CRM tools fail to support. 
 
 **Key Impacts:**
-- 📐 Domain-specific CRM process modelling based on embedded field research[cite: 2]
-- 🔗 Direct alignment with EUDAMED traceability and MDR post-market obligations[cite: 2]
-- 🔬 Applied semi-structured interviews and document analysis for system requirements[cite: 2]
+- 📐 Domain-specific CRM process modelling based on embedded field research
+- 🔗 Direct alignment with EUDAMED traceability and MDR post-market obligations
+- 🔬 Applied semi-structured interviews and document analysis for system requirements
 
 </td>
 <td width="50%" valign="top">
@@ -57,12 +57,12 @@ A structured process module designed to standardise and digitise workflows for m
 ### 📱 MedFlow Lite
 > *Digital Field Operations System*
 
-A system engineered to replace paper-based installation and training processes for medical device field teams[cite: 2]. Solves critical inefficiencies like data entry errors, missing signatures, and non-auditable records[cite: 2].
+A system engineered to replace paper-based installation and training processes for medical device field teams. Solves critical inefficiencies like data entry errors, missing signatures, and non-auditable records.
 
 **Key Impacts:**
-- 📋 Transforms physical forms (based on real ISO 13485 QMS documentation) into structured mobile workflows[cite: 2]
-- 🛠️ Features automated report generation and digital sign-offs[cite: 2]
-- 🔄 Ensures ISO 13485 / MDR Article 10 compliance via re-editable, traceable records[cite: 2]
+- 📋 Transforms physical forms (based on real ISO 13485 QMS documentation) into structured mobile workflows
+- 🛠️ Features automated report generation and digital sign-offs
+- 🔄 Ensures ISO 13485 / MDR Article 10 compliance via re-editable, traceable records
 
 </td>
 </tr>
@@ -75,7 +75,7 @@ A system engineered to replace paper-based installation and training processes f
 ### 🧠 MedAI Insight
 > *Clinical Decision Support Platform*
 
-A multi-page B2B platform translating clinical monitoring concepts into an interactive demonstration tool[cite: 2]. Features a real-time patient monitoring simulation (AFib, VTach) and an AI-assisted imaging module for lesion detection[cite: 2].
+A multi-page B2B platform translating clinical monitoring concepts into an interactive demonstration tool. Features a real-time patient monitoring simulation (AFib, VTach) and an AI-assisted imaging module for lesion detection.
 
 </td>
 <td width="50%" valign="top">
@@ -83,7 +83,7 @@ A multi-page B2B platform translating clinical monitoring concepts into an inter
 ### 📊 EKG Signal Classification
 > *Medical Data Analysis*
 
-Analysed raw EKG signal data from Holter devices using structured feature extraction and data mining methodologies[cite: 2]. Bridged MIS analytical frameworks with clinical data interpretation for diagnostic support[cite: 2].
+Analysed raw EKG signal data from Holter devices using structured feature extraction and data mining methodologies. Bridged MIS analytical frameworks with clinical data interpretation for diagnostic support.
 
 </td>
 </tr>
@@ -99,11 +99,11 @@ Analysed raw EKG signal data from Holter devices using structured feature extrac
 
 | Domain | Focus Areas & Methodologies |
 |--------|---------------------|
-| 📐 **Systems Analysis** | Business Process Modelling · Requirements Analysis · Workflow Design · CRM/ERP Architecture[cite: 2] |
-| 🏥 **Health Informatics** | ISO 13485 QMS · MDR/EUDAMED Compliance · Medical Device Workflows · Public Procurement (EKAP)[cite: 2] |
-| 🔬 **Research Methods** | Qualitative Case Study Design · Semi-structured Interviews · Process Mapping[cite: 2] |
-| 📊 **Data & Analytics** | Business Intelligence · Data Mining · Medical Signal Analysis · AI-Assisted Decision Support[cite: 2] |
-| 💻 **Implementation Tools** | SQL · Python · JavaScript · Android (Java/Kotlin) *(Used as practical tools to actualise system designs)*[cite: 2] |
+| 📐 **Systems Analysis** | Business Process Modelling · Requirements Analysis · Workflow Design · CRM/ERP Architecture |
+| 🏥 **Health Informatics** | ISO 13485 QMS · MDR/EUDAMED Compliance · Medical Device Workflows · Public Procurement (EKAP) |
+| 🔬 **Research Methods** | Qualitative Case Study Design · Semi-structured Interviews · Process Mapping |
+| 📊 **Data & Analytics** | Business Intelligence · Data Mining · Medical Signal Analysis · AI-Assisted Decision Support |
+| 💻 **Implementation Tools** | SQL · Python · JavaScript · Android (Java/Kotlin) *(Used as practical tools to actualise system designs)* |
 
 </div>
 
@@ -111,10 +111,10 @@ Analysed raw EKG signal data from Holter devices using structured feature extrac
 
 ## 🎙️ Leadership, Publications & Community
 
-- ✍️ **Health Tech Writer:** Publishing actively on Medium regarding *Health 5.0* and *AI in Healthcare*[cite: 2].
-- 🗣️ **Conference Speaker:** Delivered a public talk on *'AI-Supported Health Technologies'* for the Diyarbakır Software Community[cite: 2].
-- 🤝 **Community Leadership:** Management Team Member at Diyarbakır Software Community & Former Board Chair at Bartın Innovation Club[cite: 2].
-- 🎗️ **Social Impact:** Volunteer for LÖSEV (Leukemia Foundation), supporting fundraising campaigns[cite: 2].
+- ✍️ **Health Tech Writer:** Publishing actively on Medium regarding *Health 5.0* and *AI in Healthcare*.
+- 🗣️ **Conference Speaker:** Delivered a public talk on *'AI-Supported Health Technologies'* for the Diyarbakır Software Community.
+- 🤝 **Community Leadership:** Management Team Member at Diyarbakır Software Community & Former Board Chair at Bartın Innovation Club.
+- 🎗️ **Social Impact:** Volunteer for LÖSEV (Leukemia Foundation), supporting fundraising campaigns.
 
 ---
 
